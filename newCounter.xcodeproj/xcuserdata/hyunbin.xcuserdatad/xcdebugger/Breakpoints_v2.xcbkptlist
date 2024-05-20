@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F10FB7FC-E0BA-4BB4-9884-21453591189E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40CC2652-F84B-4E42-98BA-AD24E320873A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newCounter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "40CC2652-F84B-4E42-98BA-AD24E320873A - d60983e1c84a3968"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newCounter.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; newCounter.ViewController"
+                  moduleName = "newCounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunbin/Desktop/sesac%20ios%20class/newCounter/newCounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "40CC2652-F84B-4E42-98BA-AD24E320873A - 27b9723c36a15c12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newCounter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; newCounter.ViewController"
+                  moduleName = "newCounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunbin/Desktop/sesac%20ios%20class/newCounter/newCounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "40CC2652-F84B-4E42-98BA-AD24E320873A - faa0cf9eda8eed27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newCounter.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;newCounter.ViewController&gt;"
+                  moduleName = "newCounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunbin/Desktop/sesac%20ios%20class/newCounter/newCounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "40CC2652-F84B-4E42-98BA-AD24E320873A - a30506493252a861"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newCounter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;newCounter.ViewController&gt;"
+                  moduleName = "newCounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunbin/Desktop/sesac%20ios%20class/newCounter/newCounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "40CC2652-F84B-4E42-98BA-AD24E320873A - ac6cff2524aa4cf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "newCounter.ViewController.__deallocating_deinit"
+                  moduleName = "newCounter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyunbin/Desktop/sesac%20ios%20class/newCounter/newCounter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
